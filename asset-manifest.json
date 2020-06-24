@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JohnMon323/react-redux-formlist-CRUD/static/css/main.0d023148.chunk.css",
-    "main.js": "/JohnMon323/react-redux-formlist-CRUD/static/js/main.96129e99.chunk.js",
-    "main.js.map": "/JohnMon323/react-redux-formlist-CRUD/static/js/main.96129e99.chunk.js.map",
-    "runtime-main.js": "/JohnMon323/react-redux-formlist-CRUD/static/js/runtime-main.7c78ee09.js",
-    "runtime-main.js.map": "/JohnMon323/react-redux-formlist-CRUD/static/js/runtime-main.7c78ee09.js.map",
-    "static/js/2.d60aabe5.chunk.js": "/JohnMon323/react-redux-formlist-CRUD/static/js/2.d60aabe5.chunk.js",
-    "static/js/2.d60aabe5.chunk.js.map": "/JohnMon323/react-redux-formlist-CRUD/static/js/2.d60aabe5.chunk.js.map",
-    "index.html": "/JohnMon323/react-redux-formlist-CRUD/index.html",
-    "precache-manifest.298f63289b93f610b56db2ecf486fd70.js": "/JohnMon323/react-redux-formlist-CRUD/precache-manifest.298f63289b93f610b56db2ecf486fd70.js",
-    "service-worker.js": "/JohnMon323/react-redux-formlist-CRUD/service-worker.js",
-    "static/css/main.0d023148.chunk.css.map": "/JohnMon323/react-redux-formlist-CRUD/static/css/main.0d023148.chunk.css.map",
-    "static/js/2.d60aabe5.chunk.js.LICENSE.txt": "/JohnMon323/react-redux-formlist-CRUD/static/js/2.d60aabe5.chunk.js.LICENSE.txt"
+    "main.css": "/JohnMon323/Test-CRUD.git/static/css/main.0d023148.chunk.css",
+    "main.js": "/JohnMon323/Test-CRUD.git/static/js/main.96129e99.chunk.js",
+    "main.js.map": "/JohnMon323/Test-CRUD.git/static/js/main.96129e99.chunk.js.map",
+    "runtime-main.js": "/JohnMon323/Test-CRUD.git/static/js/runtime-main.0e15528d.js",
+    "runtime-main.js.map": "/JohnMon323/Test-CRUD.git/static/js/runtime-main.0e15528d.js.map",
+    "static/js/2.d60aabe5.chunk.js": "/JohnMon323/Test-CRUD.git/static/js/2.d60aabe5.chunk.js",
+    "static/js/2.d60aabe5.chunk.js.map": "/JohnMon323/Test-CRUD.git/static/js/2.d60aabe5.chunk.js.map",
+    "index.html": "/JohnMon323/Test-CRUD.git/index.html",
+    "precache-manifest.69471e781ae23ab4bd343558adc81295.js": "/JohnMon323/Test-CRUD.git/precache-manifest.69471e781ae23ab4bd343558adc81295.js",
+    "service-worker.js": "/JohnMon323/Test-CRUD.git/service-worker.js",
+    "static/css/main.0d023148.chunk.css.map": "/JohnMon323/Test-CRUD.git/static/css/main.0d023148.chunk.css.map",
+    "static/js/2.d60aabe5.chunk.js.LICENSE.txt": "/JohnMon323/Test-CRUD.git/static/js/2.d60aabe5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c78ee09.js",
+    "static/js/runtime-main.0e15528d.js",
     "static/js/2.d60aabe5.chunk.js",
     "static/css/main.0d023148.chunk.css",
     "static/js/main.96129e99.chunk.js"
